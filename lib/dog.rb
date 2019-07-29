@@ -6,6 +6,6 @@ end
   def name
     @my_name
   end
-  def bark 
+  def bark
     puts "woof!"
 end
